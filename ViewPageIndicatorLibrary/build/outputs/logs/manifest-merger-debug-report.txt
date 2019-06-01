@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:1-8:12
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:1-8:12
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:1-8:12
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:1-8:12
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:1-8:12
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:1-8:12
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:1-8:12
+	package
+		ADDED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+		ADDED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+		ADDED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/lim/StudioProjects/GunWorld/ViewPageIndicatorLibrary/src/main/AndroidManifest.xml

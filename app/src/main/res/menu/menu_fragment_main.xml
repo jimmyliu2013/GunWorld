@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:GunWorld="http://schemas.android.com/apk/res-auto" >
+    <item  
+        android:id="@+id/fragment_main_refresh"  
+        android:orderInCategory="1"  
+        GunWorld:showAsAction="always"  
+        android:actionViewClass="android.widget.ImageView"
+        android:title="refresh"
+        android:icon="@drawable/ic_refresh_black_24dp"  
+        />  
+      
+    <!-- <item  
+        android:id="@+id/actionbar_search"  
+        android:orderInCategory="2"  
+        android:actionViewClass="android.widget.SearchView"
+        GunWorld:showAsAction="always|collapseActionView"  
+        GunWorld:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="search"  
+        android:icon="@drawable/ic_search_black_24dp" 
+        />  
+        
+    
+    
+    
+    <item
+    android:id="@+id/menu_more"
+    android:orderInCategory="3"
+    android:icon="@drawable/ic_more_vert_black_24dp"
+    android:title="@string/action_settings"
+    GunWorld:showAsAction="always">
+    <menu>
+        <item  
+        android:id="@+id/actionbar_clearcache"  
+        GunWorld:showAsAction="always"  
+        android:title="清除缓存"
+        android:icon="@drawable/ic_delete_black_24dp"  
+        /> 
+    </menu>
+</item> -->
+    
+    
+    
+    
+     
+
+</menu>

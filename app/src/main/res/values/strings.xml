@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">枪炮世界</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="search_hint">如:IT 北京(空格分隔)</string>
+    <string name="clear_cache">清空缓存</string>
+    <string name="clear_database">清空数据库（保存的题目和职位信息）</string>
+    <string name="check_update">检查更新</string>
+    <string name="feedback">反馈</string>
+    <string name="about">关于</string>
+    <string name="software_info">  本应用数据从枪炮世界（http://pewpewpew.work/）网站获得，版权归属原所有者。\n\n
+        如使用存在问题，欢迎反馈意见。\n如无法直接更新，请通过相关市场下载。\n\n
+        作者：lim \n邮箱：13488684927@163.com</string>
+    
+    <string-array name="category_list">
+        <item >最近更新</item>
+        <item >各国轻武器</item>
+        <item >知名公司</item>
+        <item >经典武器</item>
+       
+    </string-array>
+    <string name="night_mode">夜间模式</string>
+    <string name="change_size">文字大小</string>
+
+</resources>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jsonString">[
+    {
+        \"countryNameInEnglish\": \"argentina\",
+        \"countryName\": \"阿根廷\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/argentina/argentino.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"australia\",
+        \"countryName\": \"澳大利亚\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/australia/index_au.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"austria\",
+        \"countryName\": \"奥地利\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/austria/austria.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"belgium\",
+        \"countryName\": \"比利时\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/belgium/belgium.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"brazil\",
+        \"countryName\": \"巴西\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/brazil/brazil.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"britain\",
+        \"countryName\": \"英国\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/britain/uklist.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"bulgaria\",
+        \"countryName\": \"保加利亚\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/bulgaria/bulgaria.htm\"
+    },
+    
+    {
+        \"countryNameInEnglish\": \"china\",
+        \"countryName\": \"中国\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/china/index.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"croatia\",
+        \"countryName\": \"克罗地亚\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/croatia/croatia.htm\"
+    },
+   
+    {
+        \"countryNameInEnglish\": \"czech\",
+        \"countryName\": \"捷克\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/czech/czindex.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"denmark\",
+        \"countryName\": \"丹麦\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/denmark/denmark.htm\"
+    },
+    
+    {
+        \"countryNameInEnglish\": \"finland\",
+        \"countryName\": \"芬兰\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/finland/finland.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"france\",
+        \"countryName\": \"法国\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/france/france.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"german\",
+        \"countryName\": \"德国\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/german/dlist.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"hungary\",
+        \"countryName\": \"匈牙利\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/hungary/hungary.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"india\",
+        \"countryName\": \"印度\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/india/india.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"iran\",
+        \"countryName\": \"伊朗\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/iran/iran.htm\"
+    },
+   
+    {
+        \"countryNameInEnglish\": \"isreal\",
+        \"countryName\": \"以色列\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/isreal/isreal.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"italy\",
+        \"countryName\": \"意大利\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/italy/italy.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"japan\",
+        \"countryName\": \"日本\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/japan/japan.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"mexico\",
+        \"countryName\": \"墨西哥\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/mexico/mexican.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"nkorea\",
+        \"countryName\": \"朝鲜\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/nkorea/nkorea.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"polish\",
+        \"countryName\": \"波兰\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/polish/poland.htm\"
+    },
+    
+    {
+        \"countryNameInEnglish\": \"romania\",
+        \"countryName\": \"罗马尼亚\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/romania/romania.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"russia\",
+        \"countryName\": \"俄罗斯\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/russain/russ.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"serbia\",
+        \"countryName\": \"南斯拉夫\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/serbia/yugo.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"singapore\",
+        \"countryName\": \"新加坡\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/singapore/stk.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"spanish\",
+        \"countryName\": \"西班牙\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/spanish/spanish.htm\"
+    },
+    
+    {
+        \"countryNameInEnglish\": \"safrica\",
+        \"countryName\": \"南非\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/safrica/safrica.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"sweden\",
+        \"countryName\": \"瑞典\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/sweden/sweden.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"swiz\",
+        \"countryName\": \"瑞士\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/swiz/swiss.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"turkey\",
+        \"countryName\": \"土耳其\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/turkey/turkey.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"ukraine\",
+        \"countryName\": \"乌克兰\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/ukraine/ukraine.htm\"
+    },
+    {
+        \"countryNameInEnglish\": \"usa\",
+        \"countryName\": \"美国\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/mil_arms.htm\"
+    }
+]</string>
+</resources>

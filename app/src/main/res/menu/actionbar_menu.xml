@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:GunWorld="http://schemas.android.com/apk/res-auto" >
+    <!-- <item  
+        android:id="@+id/actionbar_refresh"  
+        android:orderInCategory="1"  
+        GunWorld:showAsAction="always"  
+        android:actionViewClass="android.widget.ImageView"
+        android:title="model"
+        android:icon="@drawable/ic_refresh_black_24dp"  
+        />   -->
+      
+    <item  
+        android:id="@+id/actionbar_search"  
+        android:orderInCategory="2"  
+        
+        GunWorld:showAsAction="always"
+        android:title="search"  
+        android:icon="@drawable/ic_search_black_24dp" 
+        />  
+        
+   <!--android:actionViewClass="android.widget.SearchView"  
+   |collapseActionView"  
+        GunWorld:actionViewClass="android.support.v7.widget.SearchView" -->
+    
+    
+    <item
+    android:id="@+id/menu_more"
+    android:orderInCategory="3"
+    android:icon="@drawable/ic_more_vert_black_24dp"
+    android:title="@string/action_settings"
+    GunWorld:showAsAction="always">
+    <menu>
+        
+        <item  
+        android:id="@+id/actionbar_settings"  
+        GunWorld:showAsAction="always"  
+        android:title="设置"
+        android:icon="@drawable/ic_settings_black_24dp"  
+        /> 
+    </menu>
+</item>
+    
+    
+    
+    
+     
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="size">
+        <item>最大</item>
+        <item>大</item>
+        <item>中</item>
+        <item>小</item>
+        <item>最小</item>
+        
+        
+        </array>
+</resources>

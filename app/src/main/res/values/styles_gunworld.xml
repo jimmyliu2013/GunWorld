@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2011 The Android Open Source Project
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.Gunworld" parent="@style/Theme.AppCompat.Light">
+        <item name="actionBarItemBackground">@drawable/selectable_background_gunworld</item>
+        <item name="popupMenuStyle">@style/PopupMenu.Gunworld</item>
+        <item name="dropDownListViewStyle">@style/DropDownListView.Gunworld</item>
+        <item name="actionBarTabStyle">@style/ActionBarTabStyleGunworld</item>
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+        <item name="actionDropDownStyle">@style/DropDownNav.Gunworld</item>
+        <item name="actionBarStyle">@style/ActionBar.Solid.Gunworld</item>
+        <item name="actionModeBackground">@drawable/cab_background_top_gunworld</item>
+        <item name="actionModeSplitBackground">@drawable/cab_background_bottom_gunworld</item>
+        <item name="actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Gunworld</item>
+        <item name="actionBarSize">56dp</item>
+        
+       
+        <item name="spinnerDropDownItemStyle">@style/spinnerDropDownItemStyle</item>
+        
+        <!-- overflow中的文字 -->
+        <!-- <item name="actionBarWidgetTheme">@style/CustomActionOverflowDropDownText</item> -->
+        
+        
+         <!-- Active thumb color & Active track color(30% transparency) -->
+        <item name="colorControlActivated">@color/row_header_color</item>
+        <!-- Inactive thumb color -->
+        <!-- Inactive track color(30% transparency) -->
+        <item name="android:colorForeground">@color/row_header_color</item>
+        
+        
+    </style>
+    
+ <!--     <item name="android:spinnerItemStyle">@style/spinnerItemStyle</item>  -->
+    
+    <style name="spinnerItemStyle" parent="@style/Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="spinnerDropDownItemStyle" parent="@style/Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:padding">8dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    
+    
+    
+    
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textSize">14sp</item>
+       <!--  <item name="android:dividerPadding">8dp</item> -->
+        <item name="android:background">@drawable/tab_indicator_ab_gunworld</item>
+        <!-- <item name="android:background">@drawable/viewpager_indicator_selector</item> -->
+        <!-- <item name="android:showDividers">middle</item> -->
+        <item name="android:divider">@color/action_bar_divider_color</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <!-- <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item> -->
+        
+    </style>
+    
+    
+    <style name="CustomActionOverflowDropDownText" parent="Widget">
+    <item name="android:textSize">@dimen/text_size_over_flow</item> 
+    <item name="android:gravity">right</item>
+</style>
+
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+    
+    
+
+    <style name="ActionBar.Solid.Gunworld" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="background">@drawable/ab_solid_gunworld</item>
+        <item name="backgroundStacked">@drawable/ab_stacked_solid_gunworld</item>
+        <item name="backgroundSplit">@drawable/ab_bottom_solid_gunworld</item>
+        <item name="progressBarStyle">@style/ProgressBar.Gunworld</item>
+    </style>
+
+    <style name="ActionBar.Transparent.Gunworld" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="background">@drawable/ab_transparent_gunworld</item>
+        <item name="progressBarStyle">@style/ProgressBar.Gunworld</item>
+    </style>
+
+    <style name="PopupMenu.Gunworld" parent="@style/Widget.AppCompat.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_gunworld</item>	
+    </style>
+
+    
+     <!-- overflow菜单格式在这设置 -->
+    <style name="DropDownListView.Gunworld" parent="@style/Widget.AppCompat.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_gunworld</item>
+        <item name="android:divider">@color/row_header_color</item>
+        <item name="android:dividerHeight">0.5dp</item>
+    </style>
+
+    <style name="ActionBarTabStyleGunworld" parent="@style/Widget.AppCompat.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_gunworld</item>
+    </style>
+
+    <style name="DropDownNav.Gunworld" parent="@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar">
+        <item name="background">@drawable/spinner_background_ab_gunworld</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_gunworld</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_gunworld</item>
+    </style>
+    
+    <style name="ProgressBar.Gunworld" parent="@style/Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_gunworld</item>
+    </style>
+    
+    <style name="ActionButton.CloseMode.Gunworld" parent="@style/Widget.AppCompat.Light.ActionButton.CloseMode">
+        <item name="background">@drawable/btn_cab_done_gunworld</item>
+    </style>
+
+    <!-- this style is only referenced in a Light.DarkActionBar based theme -->
+    <style name="Theme.Gunworld.Widget" parent="@style/Theme.AppCompat">
+        <item name="popupMenuStyle">@style/PopupMenu.Gunworld</item>
+        <item name="dropDownListViewStyle">@style/DropDownListView.Gunworld</item>
+    </style>
+
+</resources>

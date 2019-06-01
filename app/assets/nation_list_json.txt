@@ -1,0 +1,242 @@
+﻿[
+    {
+        "countryNameInEnglish": "argentina",
+        "countryName": "阿根廷",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/argentina/argentino.htm"
+    },
+    {
+        "countryNameInEnglish": "australia",
+        "countryName": "澳大利亚",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/australia/index_au.htm"
+    },
+    {
+        "countryNameInEnglish": "austria",
+        "countryName": "奥地利",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/austria/austria.htm"
+    },
+    {
+        "countryNameInEnglish": "belgium",
+        "countryName": "比利时",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/belgium/belgium.htm"
+    },
+    {
+        "countryNameInEnglish": "brazil",
+        "countryName": "巴西",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/brazil/brazil.htm"
+    },
+    {
+        "countryNameInEnglish": "britain",
+        "countryName": "英国",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/australia/index_au.htm"
+    },
+    {
+        "countryNameInEnglish": "bulgaria",
+        "countryName": "保加利亚",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/bulgaria/bulgaria.htm"
+    },
+    {
+        "countryNameInEnglish": "chilean",
+        "countryName": "智利",
+        "subMenu": "false",
+        "url": "http://www.firearmsworld.net/chilean/saf/saf.htm"
+    },
+    {
+        "countryNameInEnglish": "china",
+        "countryName": "中国",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/china/index.htm"
+    },
+    {
+        "countryNameInEnglish": "croatia",
+        "countryName": "克罗地亚",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/croatia/croatia.htm"
+    },
+    {
+        "countryNameInEnglish": "cuba",
+        "countryName": "古巴",
+        "subMenu": "false",
+        "url": "http://www.firearmsworld.net/russain/kalash/foreign/cuba/cuba.htm"
+    },
+    {
+        "countryNameInEnglish": "czech",
+        "countryName": "捷克",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/czech/czindex.htm"
+    },
+    {
+        "countryNameInEnglish": "denmark",
+        "countryName": "丹麦",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/denmark/denmark.htm"
+    },
+    {
+        "countryNameInEnglish": "egypt",
+        "countryName": "埃及",
+        "subMenu": "false",
+        "url": "http://www.firearmsworld.net/egypt/ak/egyptak.htm"
+    },
+    {
+        "countryNameInEnglish": "finland",
+        "countryName": "芬兰",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/finland/finland.htm"
+    },
+    {
+        "countryNameInEnglish": "france",
+        "countryName": "法国",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/france/france.htm"
+    },
+    {
+        "countryNameInEnglish": "german",
+        "countryName": "德国",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/german/dlist.htm"
+    },
+    {
+        "countryNameInEnglish": "hungary",
+        "countryName": "匈牙利",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/hungary/hungary.htm"
+    },
+    {
+        "countryNameInEnglish": "india",
+        "countryName": "印度",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/india/india.htm"
+    },
+    {
+        "countryNameInEnglish": "iran",
+        "countryName": "伊朗",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/iran/iran.htm"
+    },
+    {
+        "countryNameInEnglish": "iraq",
+        "countryName": "伊拉克",
+        "subMenu": "false",
+        "url": "http://www.firearmsworld.net/russain/kalash/foreign/iraq/iraq.htm"
+    },
+    {
+        "countryNameInEnglish": "isreal",
+        "countryName": "以色列",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/isreal/isreal.htm"
+    },
+    {
+        "countryNameInEnglish": "italy",
+        "countryName": "意大利",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/italy/italy.htm"
+    },
+    {
+        "countryNameInEnglish": "japan",
+        "countryName": "日本",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/japan/japan.htm"
+    },
+    {
+        "countryNameInEnglish": "mexico",
+        "countryName": "墨西哥",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/mexico/mexican.htm"
+    },
+    {
+        "countryNameInEnglish": "nkorea",
+        "countryName": "朝鲜",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/nkorea/nkorea.htm"
+    },
+    {
+        "countryNameInEnglish": "poland",
+        "countryName": "波兰",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/polish/poland.htm"
+    },
+    {
+        "countryNameInEnglish": "portugal",
+        "countryName": "葡萄牙",
+        "subMenu": "false",
+        "url": "http://www.firearmsworld.net/portugal/lusa/lusa.htm"
+    },
+    {
+        "countryNameInEnglish": "romania",
+        "countryName": "罗马尼亚",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/romania/romania.htm"
+    },
+    {
+        "countryNameInEnglish": "russia",
+        "countryName": "俄罗斯",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/russain/russ.htm"
+    },
+    {
+        "countryNameInEnglish": "serbia",
+        "countryName": "南斯拉夫",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/serbia/yugo.htm"
+    },
+    {
+        "countryNameInEnglish": "singapore",
+        "countryName": "新加坡",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/singapore/stk.htm"
+    },
+    {
+        "countryNameInEnglish": "spanish",
+        "countryName": "西班牙",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/spanish/spanish.htm"
+    },
+    {
+        "countryNameInEnglish": "slovakian",
+        "countryName": "斯洛伐克",
+        "subMenu": "false",
+        "url": "http://www.firearmsworld.net/slovakian/k100/k100.htm"
+    },
+    {
+        "countryNameInEnglish": "safrica",
+        "countryName": "南非",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/safrica/safrica.htm"
+    },
+    {
+        "countryNameInEnglish": "sweden",
+        "countryName": "瑞典",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/sweden/sweden.htm"
+    },
+    {
+        "countryNameInEnglish": "swiss",
+        "countryName": "瑞士",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/swiz/swiss.htm"
+    },
+    {
+        "countryNameInEnglish": "turkey",
+        "countryName": "土耳其",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/turkey/turkey.htm"
+    },
+    {
+        "countryNameInEnglish": "ukraine",
+        "countryName": "乌克兰",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/ukraine/ukraine.htm"
+    },
+    {
+        "countryNameInEnglish": "usa",
+        "countryName": "美国",
+        "subMenu": "true",
+        "url": "http://www.firearmsworld.net/usa/mil_arms.htm"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="topicList">[
+    {
+        \"topicName\": \"AR-15/M16专辑\",
+        \"url\": \"http://pewpewpew.work/usa/m16/inde.htm\"
+    },
+    {
+        \"topicName\": \"SCAR专题\",
+        \"url\": \"http://pewpewpew.work/fn/scar/scar.htm\"
+    },
+    {
+        \"topicName\": \"1911式专题\",
+        \"url\": \"http://pewpewpew.work/usa/handgun/m1911s/1911type.htm\"
+    },
+    {
+        \"topicName\": \"M14型自动步枪\",
+        \"url\": \"http://pewpewpew.work/usa/r/m14/m14s.htm\"
+    },
+    {
+        \"topicName\": \"尤金·斯通纳专辑(Eugene Stoner)\",
+        \"url\": \"http://pewpewpew.work/usa/stoner/stoner.htm\"
+    },
+    {
+        \"topicName\": \"卡拉什尼科夫(Kalashnikov)及他的自动武器\",
+        \"url\": \"http://pewpewpew.work/russain/kalash/inde.htm\"
+    },
+    {
+        \"topicName\": \"狙击步枪专集\",
+        \"url\": \"http://pewpewpew.work/type/sniper.htm\"
+    }
+]</string>
+</resources>

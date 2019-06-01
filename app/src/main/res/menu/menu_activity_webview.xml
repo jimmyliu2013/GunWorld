@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:GunWorld="http://schemas.android.com/apk/res-auto" >
+    <!-- <item  
+        android:id="@+id/actionbar_refresh"  
+        android:orderInCategory="1"  
+        GunWorld:showAsAction="always"  
+        android:actionViewClass="android.widget.ImageView"
+        android:title="model"
+        android:icon="@drawable/ic_refresh_black_24dp"  
+        />   -->
+      
+   <!--  <item  
+        android:id="@+id/actionbar_size"  
+        android:orderInCategory="2"  
+        GunWorld:showAsAction="always"
+        android:title="文字大小"  
+        android:icon="@drawable/ic_format_size_24dp" 
+        />   -->
+        
+   <!--android:actionViewClass="android.widget.SearchView"  
+   |collapseActionView"  
+        GunWorld:actionViewClass="android.support.v7.widget.SearchView" -->
+    
+    
+      
+    
+    
+    
+     
+
+</menu>

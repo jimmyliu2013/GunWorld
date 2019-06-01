@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="companyList">[
+    {
+        \"companyNameInEnglish\": \"A.I.\",
+        \"companyName\": \"英国精密国际（Accuracy International）有限公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/britain/ai/ai.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"ArmaLite\",
+        \"companyName\": \"美国阿玛莱特公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/armalite/armalite.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Barret\",
+        \"companyName\": \"美国巴雷特火器制造有限公司，专门生产大口径狙击步枪\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/barrett/barrett.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Benelli\",
+        \"companyName\": \"意大利伯奈利公司生产的战术霰弹枪\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/italy/benelli/benelli.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Beretta\",
+        \"companyName\": \"意大利伯莱塔公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/italy/beretta/beretta.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Bushmaster\",
+        \"companyName\": \"美国大毒蛇公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/bushmaster/bushmaster.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Calico\",
+        \"companyName\": \"美国卡利科公司，专造螺旋弹筒自动武器	\",
+        \"subMenu\": \"false\",
+        \"url\": \"http://pewpewpew.work/usa/calico/calico.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Colt\",
+        \"companyName\": \"美国柯尔特公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/colt/colt.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"F.N.H.\",
+        \"companyName\": \"比利时国营赫斯塔尔公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/fn/fn.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"GLOCK\",
+        \"companyName\": \"奥地利格洛克有限公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/austria/glock/glock.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"HK\",
+        \"companyName\": \"德国黑克勒和科赫责任有限公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/german/hk/HK.html\"
+    },
+    {
+        \"companyNameInEnglish\": \"I.W.I.(I.M.I.)\",
+        \"companyName\": \"以色列军事工业公司轻武器分部\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/isreal/imi/imi.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"KAC/KMC\",
+        \"companyName\": \"美国奈特军械公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/kackmc/kac.htm\"
+    },
+ 
+    {
+        \"companyNameInEnglish\": \"Mauser\",
+        \"companyName\": \"德国毛瑟公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/german/mauser/mauser.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"MCBROS\",
+        \"companyName\": \"美国麦克米兰公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/mcmillan/mcbros.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Mossberg\",
+        \"companyName\": \"美国莫斯伯格父子公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/mossberg/mossberg.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Remington\",
+        \"companyName\": \"美国雷明顿公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/remington/rem.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Ruger\",
+        \"companyName\": \"美国斯图姆·鲁格公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/ruger/ruger.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"SAKO-Valmet\",
+        \"companyName\": \"芬兰萨科－瓦尔梅特公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/finland/sakovalmet.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"SmithWesson\",
+        \"companyName\": \"美国史密斯-韦森公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/sw/sw.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"SIG Arms\",
+        \"companyName\": \"前SIG Arms，现在是Swiss Arms，也包括Sauer\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/sigsauer/SIG.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Steyr\",
+        \"companyName\": \"奥地利斯太尔-曼利彻尔公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/austria/steyr/steyr.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"STK\",
+        \"companyName\": \"新加坡的STK公司，以前的CIS\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/singapore/stk.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Taurus\",
+        \"companyName\": \"巴西陶鲁斯公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/brazil/taurus/taurus.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Walther\",
+        \"companyName\": \"德国卡尔·瓦尔特公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/german/walther/walther.htm\"
+    },
+    {
+        \"companyNameInEnglish\": \"Winchester\",
+        \"companyName\": \"美国温彻斯特公司\",
+        \"subMenu\": \"true\",
+        \"url\": \"http://pewpewpew.work/usa/win/winchester.htm\"
+    }
+]</string>
+    
+</resources>

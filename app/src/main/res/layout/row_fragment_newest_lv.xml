@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="56dp"
+    android:background="@drawable/listview_selector"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="15dp" >
+
+        <TextView
+            android:id="@+id/fragment_newest_tv_state"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="3"
+            android:background="@drawable/text_view_shape"
+            android:gravity="center"
+            android:padding="3dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size_state" />
+
+        <TextView
+            android:id="@+id/fragment_newest_tv_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/row_header_text_size" />
+
+        <ImageButton
+            android:id="@+id/fragment_newest_btn_expand"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="3"
+            android:background="@drawable/image_button_selector"
+            android:src="@drawable/ic_expand_more_black_24dp" />
+    </LinearLayout>
+
+  
+
+    <com.lim.gunworld.ui.FlowLayout
+        android:id="@+id/fragment_newest_ll_expandable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:visibility="gone" 
+        >
+
+       
+    </com.lim.gunworld.ui.FlowLayout>
+
+</LinearLayout>
